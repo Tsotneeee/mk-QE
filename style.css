@@ -1,0 +1,65 @@
+html {
+    background-color: #0e3247;
+    font-family: sans-serif;
+    color: rgb(210, 223, 252);
+}
+
+h1 {
+    text-align: center;
+}
+
+header {
+    margin: 20px;
+}
+
+.equation {
+    background-color: #2c3c4dd6;
+    padding: 15px;
+    margin: 10px 30px;
+    border: 2px solid #374c63;
+    width: 200px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 2px #374c63;
+}
+
+.inp1 {
+    margin: 10px;
+}
+
+.inp2 {
+    margin: 10px;
+}
+
+.inp3 {
+    margin: 20px 10px;
+}
+
+input {
+    background-color: #809dbc;
+    padding: 3px 10px;
+    border-radius: 7px;
+    border: 2px solid #6c8caf;
+}
+
+input:focus {
+    background-color: #becddeeb;
+}
+
+.autist {
+    margin: 20px 50px;
+    border: 2px solid #6c8caf;
+    width: 150px;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+button {
+    margin-left: 50px;
+    height: 30px;
+    width: 100px;
+    font-size: larger;
+    background-color: #b0c8e2d6;
+    border-radius: 8px;
+    border: 1px solid #6c8caf;
+    cursor: pointer;
+}
